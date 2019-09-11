@@ -1,0 +1,52 @@
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+}
+
+p{
+  font-family: 'Satisfy', cursive;
+}
+
+label{
+  font-family: 'Satisfy', cursive;
+  font-size: 1.5em;
+}
+
+
+/* the properties if the body */
+body{
+  background-color: #214f4a;
+  color: #dff5f2;
+  text-align: center;
+  border: 30px solid #608f70;
+  border-top: 0px;
+  margin: 5px;
+}
+
+/* increase the area between paragragh and the border */
+p{
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+/* let the texts in the form (only label for this case) be 1.2 size of the body font size */
+form{
+  /* font-size: 1.2em; */
+  /* let the form be away form the bottom of the border */
+  margin-bottom: 20px;
+}
+
+#sub{
+  background-color: #e3e6bc;
+  height: 25px;
+  width: 130px;
+  margin: 4px;
+  margin-top: 30px;
+  border-radius:  5px;
+}
